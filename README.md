@@ -1,6 +1,6 @@
 # Java-Js-Engine-Payloads
 
-
+[TOC]
 
 ## 基本语法
 
@@ -553,3 +553,5 @@ clz.newInstance();
 [一种新型Java一句话木马的实现](https://yzddmr6.com/posts/%E4%B8%80%E7%A7%8D%E6%96%B0%E5%9E%8BJava%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%9C%A8%E9%A9%AC%E7%9A%84%E5%AE%9E%E7%8E%B0/)
 
 [Java表达式注入的武器化利用](https://yzddmr6.com/posts/java-expression-exploit/)
+
+2023KCon 《Java表达式攻防下的黑魔法》
