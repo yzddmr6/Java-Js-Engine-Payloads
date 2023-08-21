@@ -1,6 +1,30 @@
 # Java-Js-Engine-Payloads
 
-[TOC]
+- [Java-Js-Engine-Payloads](#java-js-engine-payloads)
+  - [基本语法](#基本语法)
+    - [获取脚本引擎](#获取脚本引擎)
+    - [绑定对象](#绑定对象)
+    - [调用Java方法](#调用java方法)
+    - [导入Java类型](#导入java类型)
+    - [创建Java类型的数组](#创建java类型的数组)
+    - [导入Java类](#导入java类)
+    - [方法调用与重载](#方法调用与重载)
+  - [Rhino/Nashorn解析的差异](#rhinonashorn解析的差异)
+  - [WebShell下的利用](#webshell下的利用)
+    - [原始Shell](#原始shell)
+    - [EL表达式Shell](#el表达式shell)
+  - [表达式注入下的利用](#表达式注入下的利用)
+    - [EL](#el)
+    - [Spel](#spel)
+    - [Ognl](#ognl)
+    - [Mvel](#mvel)
+    - [Jexl](#jexl)
+  - [js加载任意字节码](#js加载任意字节码)
+    - [all.js](#alljs)
+    - [defineAnonymousClass.js](#defineanonymousclassjs)
+    - [goby.js](#gobyjs)
+  - [相关文章](#相关文章)
+
 
 ## 基本语法
 
